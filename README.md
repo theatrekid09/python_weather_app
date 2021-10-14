@@ -1,8 +1,4 @@
-# Project title
-
-
 <h1 align="center">Python Weather App</h1>
-
 
 
 # Project Description
@@ -13,9 +9,8 @@
 
 ## Built With
 
-
 - Python
-- OpenWeatherAPI
+- [OpenWeatherAPI](https://openweathermap.org/)
 
 
 
